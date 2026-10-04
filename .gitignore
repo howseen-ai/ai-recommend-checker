@@ -1,0 +1,5 @@
+runs/
+configs/*.json
+!configs/.gitkeep
+__pycache__/
+.env

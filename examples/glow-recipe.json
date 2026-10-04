@@ -1,0 +1,20 @@
+{
+  "brand": {"name": "Glow Recipe", "domain": "glowrecipe.com"},
+  "category": "skincare",
+  "country": "US",
+  "competitors": [
+    {"name": "Tatcha", "domain": "tatcha.com"},
+    {"name": "Peach & Lily", "domain": "peachandlily.com", "aliases": ["Peach and Lily"]},
+    {"name": "Laneige", "domain": "laneige.com"}
+  ],
+  "questions": [
+    "What are the best skincare brands for glowing, dewy skin?",
+    "What is the best toner for glass skin if I have dry, dull skin?",
+    "Best niacinamide serum for dark spots that won't irritate sensitive skin?",
+    "Which moisturizer gives a glowy finish without feeling greasy?",
+    "What are the best K-beauty inspired brands at Sephora that are actually worth the price?",
+    "Best skincare gift set for a teenager who wants glowing skin?",
+    "What's a cheaper alternative to Tatcha that works just as well?",
+    "Best hydrating serum for dehydrated skin under $50?"
+  ]
+}
